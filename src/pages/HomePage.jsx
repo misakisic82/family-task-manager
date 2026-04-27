@@ -275,7 +275,7 @@ function HomePage({ user }) {
             Family Task Manager
           </p>
           <h1 className="text-5xl md:text-6xl font-bold text-white tracking-tight leading-tight mb-5 drop-shadow-sm">
-            Organize your family,<br />one task at a time.
+            Organize your family better,<br />one task at a time.
           </h1>
           <p className="text-base md:text-lg text-white/75 leading-relaxed mb-10 max-w-lg mx-auto">
             A simple shared space for daily, weekly, and monthly tasks —
